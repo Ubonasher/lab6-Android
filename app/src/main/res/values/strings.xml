@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="part2">part2</string>
+    <string name="part3">part3</string>
+    <string name="part4">part4</string>
+    <string name="part5">part5</string>
+    <string name="part6">part6</string>
+    <string name="title_activity_main3">lab6</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Main6Activity</string>
+</resources>
